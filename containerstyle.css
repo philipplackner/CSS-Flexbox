@@ -1,0 +1,16 @@
+.container {
+    border: solid 3px black;
+}
+
+h1 {
+    margin: 0;
+}
+
+.container div {
+    padding: 50px 0;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: greenyellow;
+    margin: 10px;
+    text-align: center;
+}
